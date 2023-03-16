@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// i know u see this man
 Console.WriteLine("Hello, World!");
 
